@@ -1,6 +1,6 @@
 [submodule "Unified-Convolution-Framework"]
 	path = Unified-Convolution-Framework
-	url = https://github.com/nullplay/Unified-Convolution-Framework.git
+	url = git@github.com:nullplay/Unified-Convolution-Framework.git
 [submodule "sputnik"]
 	path = sputnik
-	url = https://github.com/google-research/sputnik.git
+	url = git@github.com:google-research/sputnik.git
